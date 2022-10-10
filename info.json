@@ -1,0 +1,24 @@
+{
+  "name": "Erin Baright",
+  "linkedin": "https://www.linkedin.com/in/erin-baright/",
+  "github": "erinbaright",
+  "email": "erin.e.baright@gmail.com",
+  "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "CSS",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+  ],
+  "otherSkills": [
+      "Cooking",
+      "Dance",
+      "Writing"
+  ]
+}

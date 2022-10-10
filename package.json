@@ -1,0 +1,22 @@
+"bin": {
+  "resume-me": "./index.js"
+},
+
+{
+  "name": "erinbaright-resume",
+  "version": "1.0.0",
+  "description": "Erin Baright's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "erinbaright"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Erin Baright",
+  "license": "ISC"
+}
