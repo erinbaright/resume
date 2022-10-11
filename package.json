@@ -14,9 +14,8 @@
     "resume"
   ],
   "author": "Erin Baright",
-  "license": "ISC"
-
+  "license": "ISC",
   "bin": {
     "resume-me": "./index.js"
-  },
+  }
 }
